@@ -1,0 +1,12 @@
+body{
+	background-image: url("thanks.jpg");
+	 background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+     background-attachment: fixed;
+	text-align: right;
+    text-transform: capitalize;
+    font-size: 54px;
+    color: black;
+}
+}

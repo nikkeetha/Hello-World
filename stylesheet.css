@@ -1,0 +1,37 @@
+
+h1
+{
+	text-align: center;
+}
+form
+{
+	
+	background-color: grey;
+	color: black;
+	text-transform: capitalize;
+	line-height: 0.8;
+	font-size: 20px;
+	font-weight: 500px;
+
+
+}
+input
+{
+	width: 30%;
+	margin: 8px 0;
+	padding: 5px 5px;
+	background-color: yellow;
+	color: black;
+}
+
+input[type=submit]
+{
+	background-color: red;
+	align-content: left;
+}
+
+input[type=radio],[type=checkbox]
+{
+	width: 1%;
+	
+}
